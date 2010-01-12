@@ -28,6 +28,10 @@
 							plugin.properties=plugin.properties,
 							schema=schema
             			</Include-Resource>
+            			<Import-Package>org.eclipse.core.runtime;registry=!,
+ org.eclipse.ui;ui.workbench=!,
+ org.eclipse.ui.actions;ui.workbench=!,
+ org.eclipse.ui.dialogs;ui.workbench=!,*</Import-Package>            			
 					</instructions>
 				</configuration>
 			</plugin>
