@@ -46,7 +46,7 @@ import org.eclipse.core.runtime.IStatus;
 public class CustomePlugin extends AbstractUIPlugin {
 	
 	
-	private static final String ID_PLUGIN = "fr.imag.workspace.custom.filter";
+	private static final String ID_PLUGIN = "fr.imag.adele.cadse.custom.filter";
 	
 	private static CustomePlugin fgPlugin;
 	
