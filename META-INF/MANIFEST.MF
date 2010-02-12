@@ -8,14 +8,14 @@ Export-Package: fede.plugin.workspace.filters;uses:="org.eclipse.jface
  e.ui.activities,org.eclipse.osgi.util,org.eclipse.core.resources,org.
  eclipse.jface.dialogs,org.eclipse.swt.dnd"
 Private-Package: schema,.
-Built-By: chomats
+Built-By: etienne
 Tool: Bnd-0.0.357
 Bundle-Name: fr.imag.adele.cadse.custom.filter
 Created-By: Apache Maven Bundle Plugin
 Bundle-Vendor: Adele/LIG/ Grenoble University, France
 Eclipse-LazyStart: true
-Build-Jdk: 1.6.0_17
-Bundle-Version: 2.3.0.SNAPSHOT
+Build-Jdk: 1.6.0_0
+Bundle-Version: 2.3.0.SNAPSHOT-201002121709
 Bundle-Activator: fede.plugin.workspace.filters.CustomePlugin
 Bundle-ManifestVersion: 2
 Import-Package: fede.plugin.workspace.filters,org.eclipse.core.resourc
