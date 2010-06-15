@@ -20,7 +20,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<instructions>
-						<Export-Package>fede.plugin.workspace.filters</Export-Package>
+						<Export-Package>fede.plugin.workspace.filters;version="${version.cadse}</Export-Package>
 						<Bundle-Activator>fede.plugin.workspace.filters.CustomePlugin</Bundle-Activator>
 						<Eclipse-LazyStart>true</Eclipse-LazyStart>
 						<Include-Resource>
